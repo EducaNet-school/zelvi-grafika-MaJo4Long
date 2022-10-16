@@ -15,3 +15,4 @@ def funkcos():
 print("\nTvoje čísla jsou:")
 
 funkcos()
+#trochu sis upravil zadani, vysledkem ma byt soucet

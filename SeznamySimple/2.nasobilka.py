@@ -17,3 +17,4 @@ def cislosnasobilka():
 
 
 cislosnasobilka()
+#chvalim zabaleni do funkce (naucime se pouzit trochu lepe) a taky kontrolu uzivatelskeho vstupu
