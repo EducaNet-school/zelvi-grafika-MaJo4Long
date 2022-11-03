@@ -12,4 +12,5 @@ def counting_letters(text):
 textconvert = input("Write something to count your words: ")
 
 text = textconvert.lower()
+
 print(counting_letters(text))
